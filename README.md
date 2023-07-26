@@ -1,5 +1,5 @@
 # Attendance-Management-using-face-recognition
-## Attendance management during meets using face recognition(uses HOG method)
+## Attendance management during online meets using face recognition(uses HOG method)
 
 This project is a Face Recognition Attendance Management System that allows teachers and students to interact through a graphical user interface (GUI) built using the Tkinter library. The application uses face recognition techniques to allow students to log in to their accounts, and teachers to manage attendance and schedule virtual meetings. The project is implemented in Python and uses the following libraries:
 
