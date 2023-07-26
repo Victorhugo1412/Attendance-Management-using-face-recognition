@@ -40,3 +40,8 @@ This project is a Face Recognition Attendance Management System that allows teac
 
 Database "meetdatabase.db" is automatically created on running the 'createdb.ipynb' file, if it doesn't already exist.
 
+## Drawbacks for future improvement
+
+* Currently the attendance will only be tracked if the meet camera is off by default or blocked as the application uses the system's webcam itself and the webcam can only be used by a single app at once
+* The user has to press 'Q' to exit the attendance tracking, it doesn't happen automatically on leaving the meeting
+
